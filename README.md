@@ -21,6 +21,16 @@ Output.png -> Simulation Waveforms
 
 
 
+
+
+
+
+
+
+
+
+
+
 ![FIFO Waveform](Sync_FIFO/Output.png)
 
 
