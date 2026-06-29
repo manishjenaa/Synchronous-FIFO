@@ -20,6 +20,7 @@ FIFO_tb.v -> Testbench
 Output.png -> Simulation Waveforms
 
 
-![Sync_FIFO](Output.png)
+
+![FIFO Waveform](Sync_FIFO/Output.png)
 
 
