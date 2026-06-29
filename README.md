@@ -15,8 +15,8 @@ Tools Used:
 - Icarus Verilog
 
 Files:
-FIFO.v -> FIFO RTL design
-FIFO_tb.v -> Testbench
+FIFO.v -> FIFO RTL design , 
+FIFO_tb.v -> Testbench ,
 Output.png -> Simulation Waveforms
 
 
